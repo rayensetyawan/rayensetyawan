@@ -1,4 +1,3 @@
-## Hello World, I'm Ryan Setyawan 👋
 
 <!--
 **rayensetyawan/rayensetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
