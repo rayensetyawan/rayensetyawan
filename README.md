@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm Ryan Setyawan 👋
 
 <!--
 **rayensetyawan/rayensetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![rayensetyawan](img/RYAN%20SETYAWAN.png)
+- 🔭 I’m currently studying on [**Xiamen University Malaysia**](https://www.xmu.edu.my/)
+- 🌱 I’m currently majoring in **Software Engineering**
