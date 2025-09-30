@@ -4,7 +4,7 @@
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" align="left" style="margin-right: 25px; margin-bottom: 10px;" /> 
+<p style="gap: 20px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" align="left" style="margin-right: 25px; margin-bottom: 10px;" /> 
 
 <div> 
     <h3>👇 About Me</h3> 
@@ -17,6 +17,7 @@
     </div> 
 </p>
 
+<br>
 
 ### 💡Skills 
 <div align="left">
