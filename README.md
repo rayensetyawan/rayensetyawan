@@ -1,27 +1,21 @@
 ![rayensetyawan](aset/RYAN%20SETYAWAN%20(1).png)
-<h2 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<div style="display: flex; align-items: centert; gap: 20px; margin-bottom: 20px;">
-  <!-- Giphy di kiri -->
-  <img 
-       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
-       alt="Coding GIF"
-       style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
+<p align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
+       alt="Coding GIF" width="300" style="margin-right: 20px;" align="left"/>
 
-  <!-- About Me di kanan -->
-  <div style="flex: 1;">
-    <h3>👇 About Me</h3>
-    <ul>
-      <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
-      <li>📚 Major: <b>Software Engineering</b></li>
-      <li>🎯 Goals: <b>Full Stack Developer</b></li>
-      <li>💻 Device: <b>HP Victus 15, Win 11</b></li>
-    </ul>
-  </div>
-</div>
+  <h3>👇 About Me</h3>
+  <ul>
+    <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
+    <li>📚 Major: <b>Software Engineering</b></li>
+    <li>🎯 Goals: <b>Full Stack Developer</b></li>
+    <li>💻 Device: <b>HP Victus 15, Win 11</b></li>
+  </ul>
+</p>
 
 
 ### 💡Skills 
