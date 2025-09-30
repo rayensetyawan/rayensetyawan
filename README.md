@@ -4,12 +4,24 @@
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<img align="left" height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <!-- Gambar di kiri -->
+  <img
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
+       alt="Coding GIF"
+       style="max-width: 100%; height: auto; flex: 1 1 200px;" />
 
-### 👇About Me
-- 📍Studying in [**Xiamen University Malaysia**](https://www.xmu.edu.my/)
-- 📚Majoring in **Software Engineering**
-- 💻Device: **HP Victus 15, Win 11**
+  <!-- Teks di kanan -->
+  <div style="flex: 2 1 300px;">
+    <h3>👇About Me</h3>
+    <ul>
+      <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
+      <li>📚 Major: <b>Software Engineering</b></li>
+      <li>🏆 Goals: <b>Full Stack Developers</b></li>
+      <li>💻 Device: <b>HP Victus 15, Win 11</b></li>
+    </ul>
+  </div>
+</div>
 
 ### 💡Skills 
 <div align="left">
@@ -42,8 +54,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph-dark.svg">
