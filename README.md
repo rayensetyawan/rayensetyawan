@@ -4,21 +4,25 @@
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<p align="left">
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
+  
+  <!-- GIF -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
-       alt="Coding GIF" width="300" 
-       align="left" style="margin-right: 25px; margin-bottom: 10px;" />
+       alt="Coding GIF" width="300" />
 
-  <h3>👇 About Me</h3>
-  <ul>
-    <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
-    <li>📚 Major: <b>Software Engineering</b></li>
-    <li>🎯 Goals: <b>Full Stack Developer</b></li>
-    <li>💻 Device: <b>HP Victus 15, Win 11</b></li>
-  </ul>
-</p>
+  <!-- About Me Text -->
+  <div style="margin-top: -35px;">
+    <h3>👇 About Me</h3>
+    <ul>
+      <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
+      <li>📚 Major: <b>Software Engineering</b></li>
+      <li>🎯 Goals: <b>Full Stack Developer</b></li>
+      <li>💻 Device: <b>HP Victus 15, Win 11</b></li>
+    </ul>
+  </div>
 
-<br clear="left"/>
+</div>
+
 
 ### 💡Skills 
 <div align="left">
