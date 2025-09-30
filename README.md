@@ -4,15 +4,15 @@
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
   <!-- Giphy di kiri -->
-  <img height="200" 
+  <img 
        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
        alt="Coding GIF"
-       style="max-width: 100%; height: auto; flex: 1 1 250px;" />
+       style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;" />
 
   <!-- About Me di kanan -->
-  <div style="flex: 2 1 300px;">
+  <div style="flex: 1;">
     <h3>👇 About Me</h3>
     <ul>
       <li>📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a></li>
@@ -22,6 +22,7 @@
     </ul>
   </div>
 </div>
+
 
 ### 💡Skills 
 <div align="left">
