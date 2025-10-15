@@ -1,6 +1,5 @@
 ![rayensetyawan](aset/RYAN%20SETYAWAN%20(1).png)
 <h1 align="left">Welcome to My profile</h1>
-<hr>
 
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" style="margin: 0px 60px 20px 0px;" align="left"/> 
@@ -14,7 +13,7 @@
       </div> 
 </div>
 
-<br><hr>
+<br>
 
 ### 💡Skills 
 <div align="center">
@@ -39,16 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<hr>
-
 ### 🌐Connect With Me 
 <div align="center">
   <a href="https://www.instagram.com/ryansetyawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@unknownusersp"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="mailto:ryansp42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
-<hr>
 
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
