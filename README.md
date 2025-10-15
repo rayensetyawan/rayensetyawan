@@ -13,7 +13,7 @@
       </div> 
 </div>
 
-<br>
+<br><hr>
 
 ### 💡Skills 
 <div align="center">
@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+<hr>
 ### 🌐Connect With Me 
 <div align="center">
   <a href="https://www.instagram.com/ryansetyawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -45,6 +46,7 @@
   <a href="mailto:ryansp42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+<hr>
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
 
