@@ -5,12 +5,14 @@
   <tr>
     <td>
       <h1>Welcome to My Profile!</h1>
-      <p>   🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
+      <p align="left">   
+            🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
             📚 Bachelor of Engineering in <b>Software Engineering</b><br>
-            🎯 Goals: <b>Full Stack Developer</b><br></p>
+            🎯 Goals: <b>Full Stack Developer</b><br>
+      </p>
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600">
     </td>
   </tr>
 </table>
