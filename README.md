@@ -1,28 +1,25 @@
 ![rayensetyawan](aset/RYAN%20SETYAWAN%20(1).png)
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to My profile</h1>
+<hr>
 
-<p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
-
-
-<p style="gap: 20px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" align="left" style="margin-right: 25px; margin-bottom: 10px;" /> 
-
-<div> 
-    <h3>👇 About Me</h3> 
+<div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" style="margin: 0px 60px 20px 0px;" align="left"/> 
+<div>
+<h3>👇 About Me</h3> 
         <ul> 
-            📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a><br>
-            📚 Major: <b>Software Engineering</b><br>
+            📍 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
+            📚 Bachelor of Engineering in <b>Software Engineering</b><br>
             🎯 Goals: <b>Full Stack Developer</b><br>
-            💻 Device: <b>HP Victus 15, Win 11</b>
-        </ul> 
-    </div> 
-</p>
+        </ul>
+      </div> 
+</div>
 
-<br>
+<br><hr>
 
 ### 💡Skills 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -42,8 +39,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-### 🌐Connect with me 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryansetyawan/) [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@unknownusersp) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryansp42@gmail.com)
+<hr>
+
+### 🌐Connect With Me 
+<div align="center">
+  <a href="https://www.instagram.com/ryansetyawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@unknownusersp"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="mailto:ryansp42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<hr>
 
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
