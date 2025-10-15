@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <h1>Welcome to My Profile! <img src="https://www.svgrepo.com/show/217753/github.svg" width="50" align="right"/></h1>
+      <h1>Welcome to My Profile! <img src="https://www.svgrepo.com/show/217753/github.svg" width="40" align="right"/></h1>
       <p>   🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
             📚 Bachelor of Engineering in <b>Software Engineering</b><br>
             🎯 Goals: <b>Full Stack Developer</b><br></p><br>
@@ -13,7 +13,7 @@
       <br> <br>
     </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwczVuMnUzdDlsNjU3c2xtZ2QyMm45Y2FvNHZ0OXZmNnlrbXViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" align="centre" width="250">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwczVuMnUzdDlsNjU3c2xtZ2QyMm45Y2FvNHZ0OXZmNnlrbXViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" align="centre" width="200">
     </td>
   </tr>
 </table>
