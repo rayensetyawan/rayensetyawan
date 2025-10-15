@@ -14,6 +14,15 @@
 </div>
 
 <br><br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph.svg">
+</picture>
+
 <hr>
 
 ### 💡Skills 
@@ -53,14 +62,6 @@
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- ###
 
