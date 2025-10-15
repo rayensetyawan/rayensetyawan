@@ -10,14 +10,12 @@
             🎯 Goals: <b>Full Stack Developer</b><br></p>
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" align="centre" width="400">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
     </td>
   </tr>
 </table>
 
 ---
-
-<br><br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
