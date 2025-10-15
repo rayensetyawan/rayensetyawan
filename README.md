@@ -1,23 +1,22 @@
 ![rayensetyawan](aset/RYAN%20SETYAWAN%20(1).png)
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to My Profile</h1>
 
 <p align="left">My name is Ryan Setyawan and I'm a student from Xiamen University Malaysia</p>
 
 
-<p style="gap: 20px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" align="left" style="margin-right: 25px; margin-bottom: 10px;" /> 
+<p style="gap: 20px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" align="left"/> 
 
 <div> 
-    <h3>👇 About Me</h3> 
+    <h3>👇 About Me</h3>
         <ul> 
             📍 <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a><br>
             📚 Major: <b>Software Engineering</b><br>
             🎯 Goals: <b>Full Stack Developer</b><br>
-            💻 Device: <b>HP Victus 15, Win 11</b>
         </ul> 
     </div> 
 </p>
 
-<br>
+<br> <hr>
 
 ### 💡Skills 
 <div align="left">
@@ -42,9 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+<hr>
+
 ### 🌐Connect with me 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryansetyawan/) [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@unknownusersp) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryansp42@gmail.com)
 
+<hr>
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
 
