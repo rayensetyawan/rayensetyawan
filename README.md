@@ -13,7 +13,8 @@
       </div> 
 </div>
 
-<br><hr>
+<br><br>
+<hr>
 
 ### 💡Skills 
 <div align="center">
@@ -39,6 +40,7 @@
 </div>
 
 <hr>
+
 ### 🌐Connect With Me 
 <div align="center">
   <a href="https://www.instagram.com/ryansetyawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -47,6 +49,7 @@
 </div>
 
 <hr>
+
 <!-- ### My Github Stats
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayensetyawan&show_icons=true&theme=transparent) -->
 
