@@ -3,7 +3,7 @@
 
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding GIF" width="300" style="margin: 0px 60px 20px 0px;" align="left"/> 
-<div>
+<div align="center">
 <h3>👇 About Me</h3> 
         <ul> 
             📍 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
