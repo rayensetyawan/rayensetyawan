@@ -65,9 +65,9 @@
   <!-- gmail -->
   <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="50"/></a>
   <!-- linkedin -->
-  <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="50"/></a>
+  <a href="mailto:ryansp42@gmail.com"><img src="" width="50"/></a>
   <!-- spotify -->
-  <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/349511/spotify.svg" width="50"/></a>
+  <a href="mailto:ryansp42@gmail.com"><img src="https://open.spotify.com/user/uz2hfgp9jw2uqij1fp4k00v2x?si=d6925e747f2845f8" width="50"/></a>
 </div>
 
 
