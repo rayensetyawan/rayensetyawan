@@ -1,25 +1,24 @@
 ![rayensetyawan](aset/RYAN%20SETYAWAN%20(1).png)
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 <table>
   <tr>
     <td>
       <h1>Welcome to My Profile!</h1>
-      <p align="left">   
-            🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
+      <p>   🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
             📚 Bachelor of Engineering in <b>Software Engineering</b><br>
-            🎯 Goals: <b>Full Stack Developer</b><br>
-      </p>
+            🎯 Goals: <b>Full Stack Developer</b><br></p><br>
+            Matthew 6:34: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+      <br> <br>
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVncHF6dWh0Z3pyaDZ6YzJ3cmk4cXpkNHRhNWx3ZWp6amw5YmszbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="centre" width="300">
     </td>
   </tr>
 </table>
 
----
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph-dark.svg">
@@ -27,9 +26,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayensetyawan/rayensetyawan/output/pacman-contribution-graph.svg">
 </picture>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ### 💡Skills 
+<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 
@@ -52,13 +52,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ### 🌐Connect With Me 
+<hr>
 <div align="center">
-  <a href="https://www.instagram.com/ryansetyawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@unknownusersp"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="mailto:ryansp42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- instagram -->
+  <a href="https://w1ww.instagram.com/ryansetyawan/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50"/></a>
+  <!-- tiktok -->
+  <a href="https://www.tiktok.com/@unknownusersp"><img src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" width="50"/></a>
+  <!-- gmail -->
+  <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="50"/></a>
+  <!-- linkedin -->
+  <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="50"/></a>
+  <!-- spotify -->
+  <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/349511/spotify.svg" width="50"/></a>
 </div>
 
 <!-- ### My Github Stats
