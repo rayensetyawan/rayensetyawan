@@ -1,16 +1,18 @@
 ![rayensetyawan](aset/04..png)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-
 <table>
   <tr>
     <td>
       <h1>Welcome to My Profile! <img src="https://www.svgrepo.com/show/217753/github.svg" width="40" align="right"/></h1>
-      <p>   🎓 Studying at<a href="https://www.xmu.edu.my/"><b> Xiamen University Malaysia</b></a><br>
-            📚 Bachelor of Engineering in <b>Software Engineering</b><br>
-            🎯 Goals: <b>Full Stack Developer</b><br></p><br>
+      <p>   🎓 Studying at <a href="https://www.xmu.edu.my/"><b>Xiamen University Malaysia</b></a> <br>
+            📚 Bachelor of Engineering in <b>Software Engineering</b> <br>
+            🎯 Goals: <b>Full Stack Developer</b> <br> 
+      </p> <br>
             Matthew 6:34: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
-      <br> <br>
+      <div align="right">
+            <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frayensetyawan%2Frayensetyawan&label=VISITORS&labelColor=%23000&countColor=%230A0209"/>
+      </div>
     </td>
     <td>
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwczVuMnUzdDlsNjU3c2xtZ2QyMm45Y2FvNHZ0OXZmNnlrbXViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" align="centre" width="200">
@@ -53,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 ### 🌐Connect With Me 
 <hr>
@@ -69,7 +71,19 @@
   <!-- spotify -->
   <a href="https://open.spotify.com/user/uz2hfgp9jw2uqij1fp4k00v2x?si=d6925e747f2845f8"><img src="https://www.svgrepo.com/show/349511/spotify.svg" width="50"/></a>
 </div>
+<br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470"/>
+    </td>
+    <td>
+      <h2> <i>"Failure is the opportunity to begin again more intelligently." </i></h2>
+    </td>
+  </tr>
+</table>
 
 
 <!-- ### My Github Stats
