@@ -62,14 +62,10 @@
 <div align="center">
   <!-- instagram -->
   <a href="https://w1ww.instagram.com/ryansetyawan/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50"/></a>
-  <!-- tiktok -->
-  <a href="https://www.tiktok.com/@unknownusersp"><img src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" width="50"/></a>
   <!-- gmail -->
   <a href="mailto:ryansp42@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="50"/></a>
   <!-- linkedin -->
   <a href=""><img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="50"/></a>
-  <!-- spotify -->
-  <a href="https://open.spotify.com/user/uz2hfgp9jw2uqij1fp4k00v2x?si=d6925e747f2845f8"><img src="https://www.svgrepo.com/show/349511/spotify.svg" width="50"/></a>
 </div>
 <br>
 
